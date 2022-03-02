@@ -2,7 +2,7 @@
 kkkk
 =======
 ## Viktoria Zheludova
-===
+
 ### My Contact Info
 - Phone: +375 33 646-89-46
 - E-mail: fghtt413@gmail.com
@@ -17,7 +17,7 @@ I want to learn Front-End Development in RSSchool!
 - JavaScript (Basic)
 
 ### Code example:
-`
+```
 function solution(number) {
   let sum = 0;
   for (let i = number-1; i > 0; i--) {
@@ -27,7 +27,7 @@ function solution(number) {
   }
   return sum;
 }
-`
+```
 
 ### Work experience:
 Nothing yet…
