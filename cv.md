@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-kkkk
-=======
 ## Viktoria Zheludova
 
 ### My Contact Info
