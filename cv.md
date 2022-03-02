@@ -15,6 +15,8 @@ I want to learn Front-End Development in RSSchool!
 ### Skills
 - HTML
 - JavaScript (Basic)
+- Git
+- C# (Basic)
 
 ### Code example:
 ```
