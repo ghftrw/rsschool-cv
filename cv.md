@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-kkkk
-=======
 ## Viktoria Zheludova
 
 ### My Contact Info
@@ -41,4 +38,4 @@ Nothing yet…
 ### Languages:
 - Russian - Native
 - English - A2-B1
->>>>>>> 1c2a018 (docs: add information in cv file)
+
